@@ -20,7 +20,7 @@ export default function RecentProjects() {
       title: "PORTFOLIO",
       category: "WEB DEVELOPMENT",
       desc: "Introducing a professionally developed Portfolio website designed to showcase my skills and projects. Featuring a sleek, modern aesthetic design with intuitive navigation.",
-      link: "https://github.com/yourusername/portfolio",
+      link: "https://github.com/amaannii/portfolio.git",
     },
     {
       img: img2,
